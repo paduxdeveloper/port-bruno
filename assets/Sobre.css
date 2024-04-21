@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.conte{
+    border: 1px solid red;
+    width: 800px;
+    height: 300px;
+    text-align: center;
+    gap: 20px; 
+    background-color: rgb(49, 53, 53);
+    border-radius: 40px;
+    padding: 20px 30px;
+   
+}
+.conte h1{
+    color: chartreuse;
+
+    padding-bottom: 20px;
+}
